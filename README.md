@@ -1,4 +1,4 @@
-# Practice Git
+katePractice
 hello123
 second line
 third line
